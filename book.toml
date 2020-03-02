@@ -1,0 +1,10 @@
+[book]
+authors = ["Tianyi Shi"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Rust Notes"
+
+[build]
+build-dir = "docs"
+create-missing = false
